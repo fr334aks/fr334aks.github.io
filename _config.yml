@@ -1,6 +1,6 @@
 title: fr334aks 
 description: A blog for the fr334aks CTF Team.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 plugins:
