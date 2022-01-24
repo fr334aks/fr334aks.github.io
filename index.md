@@ -17,5 +17,5 @@ capture the flag competitions.
 ### Find Us Online:
 
 [<img align="left" width="60px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg"/>][twitter]
-[<img align="center" width="100px" src="https://ctftime.org/static/images/ct/logo.svg"/>][ctftime]
+[<img align="center" width="40px" src="https://user-images.githubusercontent.com/33517160/150859856-c5f4bff1-ed63-4be0-a79e-03f134e54bd0.png"/>][ctftime]
 [<img align="left" width="40px" src="https://user-images.githubusercontent.com/33517160/150856929-86ac5aba-b386-4d7e-ad2c-802005699f2c.png"/>][github]
