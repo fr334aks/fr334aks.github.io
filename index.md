@@ -5,10 +5,12 @@ layout: default
 <img align="left" src="https://user-images.githubusercontent.com/33517160/150811038-f3c7133a-9c0c-4f3d-b78b-490ad6ec8401.png">
 
 # We are fr334aks!
-We are a multinational cybersecurity capture the flag team,
-and a group of cybersecurity enthusiasts looking to practice
-and sharpen our skills by participating in cybersecurity 
-capture the flag competitions.
+<p id="description">
+    We are a multinational cybersecurity capture the flag team,
+    and a group of cybersecurity enthusiasts looking to practice
+    and sharpen our skills by participating in cybersecurity 
+    capture the flag competitions.
+</p>
 
 [twitter]: https://twitter.com/fr334aks
 [ctftime]: https://ctftime.org/team/112710
