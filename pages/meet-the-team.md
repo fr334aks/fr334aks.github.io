@@ -8,4 +8,4 @@ layout: default
 | Name | Categories | socials | 
 | -------| ------ | ------|
 | k0imet | Web, Forensics, OSINT| [twitter](https://twitter.com/k0imet_)|
-| tahaafarooq | web, rev | [twitter](https://twitter.com/tahaafarooq)|
+| tahaafarooq | Web, Rev | [twitter](https://twitter.com/tahaafarooq)|
