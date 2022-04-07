@@ -7,5 +7,6 @@ layout: default
 
 | Name | Categories | socials | 
 | -------| ------ | ------|
-| k0imet | Web, Forensics, OSINT| [twitter](https://twitter.com/k0imet_)|
-| tahaafarooq | Web, Rev | [twitter](https://twitter.com/tahaafarooq)|
+| k0imet | Web, Forensics, OSINT| [Twitter](https://twitter.com/k0imet_)|
+| tahaafarooq | Web, Rev | [Twitter](https://twitter.com/tahaafarooq)|
+| LvMalware | Web, Crypto | [Twitter](https://twitter.com/lvmalware)|
