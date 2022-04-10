@@ -35,7 +35,7 @@ layout: default
     <tr>
       <td>mug3njutsu</td>
       <td>Web, Forensics, Rev, OSINT, Misc</td>
-      <td>discord: <strong>mug3njutsu#3110</strong></td>
+      <td><a href="https://twitter.com/mug3njutsu" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://hackmd.io/@mug3njutsu" target="_blank" rel="noopener noreferrer">mug3njutsu</a></td>
     </tr>
     <tr>
