@@ -299,6 +299,7 @@ a {
 }
 
 .active-members {
-  background-image: url("/assets/images/members-table.png");
+  background-image: url("/assets/images/members-table.png") 0 0;
+  background-size: cover;
   background-repeat: no-repeat;
 }
