@@ -23,7 +23,7 @@ layout: default
     <tr>
       <td>tahaafarooq</td>
       <td>Web, Rev</td>
-      <td><a href="https://twitter.com/tahaafarooq target="_blank" rel="noopener noreferrer"">Twitter</a></td>
+      <td><a href="https://twitter.com/tahaafarooq" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://hackmd.io/@tahaafarooq target="_blank" rel="noopener noreferrer"">tahaafarooq</a></td>
     </tr>
     <tr>
