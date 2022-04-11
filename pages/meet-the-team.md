@@ -31,7 +31,7 @@ layout: default
     </tr>
     <tr>
       <td>0xRar</td>
-      <td>Web, Forensics, OSINT</td>
+      <td>Web, System Exploitation, Forensics, OSINT</td>
       <td> 🇧🇭 </td>
       <td><a href="https://twitter.com/fcv9_q" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="http://0xrar.net/blog" target="_blank" rel="noopener noreferrer">0xRar</a></td>
@@ -80,10 +80,17 @@ layout: default
     </tr>
     <tr>
       <td>ikuamike</td>
-      <td>Web, System exploitation, misc</td>
+      <td>Web, System Exploitation, Misc</td>
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">ikuamike</a></td>
+    </tr>
+    <tr>
+      <td>Fraize</td>
+      <td>Web, Rev, OSINT, Misc</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
   </tbody>
 </table>
