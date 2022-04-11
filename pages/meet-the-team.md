@@ -43,7 +43,6 @@ layout: default
       <td><a href="https://twitter.com/mug3njutsu" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://hackmd.io/@mug3njutsu" target="_blank" rel="noopener noreferrer">mug3njutsu</a></td>
     </tr>
-    <tr>https://mutur4.github.io/posts/
       <td>LvMalware</td>
       <td>Web, Crypto</td>
       <td> 🇧🇷 </td>
