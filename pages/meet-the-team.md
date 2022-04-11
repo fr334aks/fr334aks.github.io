@@ -92,5 +92,26 @@ layout: default
       <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
+    <tr>
+      <td>JrGoomer</td>
+      <td>OSINT, Misc</td>
+      <td> 🇵🇹 </td>
+      <td><a href="https://twitter.com/JrGoomer" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>mystic_kev</td>
+      <td>Crypto, Web, Reverse, Forensics</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/mystic_kev" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>Youcef</td>
+      <td>Web</td>
+      <td> 🇩🇿 </td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
   </tbody>
 </table>
