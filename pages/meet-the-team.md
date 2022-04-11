@@ -76,14 +76,14 @@ layout: default
       <td>Web, Forensics, Pwn</td>
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/trevorsaudi" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://trevorsaudi.medium.com" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://trevorsaudi.medium.com" target="_blank" rel="noopener noreferrer">trevorsaudi</a></td>
     </tr>
     <tr>
       <td>ikuamike</td>
       <td>Web, System exploitation, misc</td>
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">ikuamike</a></td>
     </tr>
   </tbody>
 </table>
