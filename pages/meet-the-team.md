@@ -114,10 +114,17 @@ layout: default
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
+      <td>CyberRat</td>
+      <td>Boot2root</td>
+      <td> 🇳🇬 </td>
+      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
       <td>j0kr</td>
       <td>Web</td>
       <td> 🇮🇳 </td>
-      <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
   </tbody>
