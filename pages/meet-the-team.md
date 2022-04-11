@@ -24,7 +24,7 @@ layout: default
     </tr>
     <tr>
       <td>tahaafarooq</td>
-      <td>Web, Rev</td>
+      <td>Web, Rev, OSINT</td>
       <td> 🇹🇿 </td>
       <td><a href="https://twitter.com/tahaafarooq" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://hackmd.io/@tahaafarooq" target="_blank" rel="noopener noreferrer">tahaafarooq</a></td>
@@ -43,7 +43,7 @@ layout: default
       <td><a href="https://twitter.com/mug3njutsu" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://hackmd.io/@mug3njutsu" target="_blank" rel="noopener noreferrer">mug3njutsu</a></td>
     </tr>
-    <tr>
+    <tr>https://mutur4.github.io/posts/
       <td>LvMalware</td>
       <td>Web, Crypto</td>
       <td> 🇧🇷 </td>
@@ -56,6 +56,34 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/BinaryChunk" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://mutur4.github.io/posts/" target="_blank" rel="noopener noreferrer">mutur4</a></td>
+    </tr>
+    <tr>
+      <td>GrayPwn</td>
+      <td>Pwn, Rev, Networks</td>
+      <td> 🇺🇬 </td>
+      <td><a href="https://twitter.com/graypwn" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>Kharon</td>
+      <td>Rev, Pwn,Forensics</td>
+      <td> 🇪🇹 </td>
+      <td><a href="https://twitter.com/masterSal_" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>godspeed9</td>
+      <td>Web, Forensics, Pwn</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/trevorsaudi" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://trevorsaudi.medium.com" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>ikuamike</td>
+      <td>Web, System exploitation, misc</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
   </tbody>
 </table>
