@@ -62,14 +62,14 @@ layout: default
       <td>Pwn, Rev, Networks</td>
       <td> 🇺🇬 </td>
       <td><a href="https://twitter.com/graypwn" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>Kharon</td>
       <td>Rev, Pwn,Forensics</td>
       <td> 🇪🇹 </td>
       <td><a href="https://twitter.com/masterSal_" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>godspeed9</td>
