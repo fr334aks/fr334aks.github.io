@@ -31,7 +31,7 @@ layout: default
     </tr>
     <tr>
       <td>0xRar</td>
-      <td>Web, System Exploitation, Forensics, OSINT</td>
+      <td>Web, Boot2root, Forensics, OSINT</td>
       <td> 🇧🇭 </td>
       <td><a href="https://twitter.com/fcv9_q" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="http://0xrar.net/blog" target="_blank" rel="noopener noreferrer">0xRar</a></td>
@@ -66,7 +66,7 @@ layout: default
     </tr>
     <tr>
       <td>Kharon</td>
-      <td>Rev, Pwn,Forensics</td>
+      <td>Rev, Pwn, Forensics</td>
       <td> 🇪🇹 </td>
       <td><a href="https://twitter.com/masterSal_" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
@@ -80,7 +80,7 @@ layout: default
     </tr>
     <tr>
       <td>ikuamike</td>
-      <td>Web, System Exploitation, Misc</td>
+      <td>Web, Boot2root, Misc</td>
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">ikuamike</a></td>
