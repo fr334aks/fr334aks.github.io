@@ -127,5 +127,12 @@ layout: default
       <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
+    <tr>
+      <td>malw0re</td>
+      <td>Web, Forensics, Misc</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/m4lw0r3" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
   </tbody>
 </table>
