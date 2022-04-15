@@ -31,7 +31,7 @@ layout: default
     </tr>
     <tr>
       <td>0xRar</td>
-      <td>Web, Boot2root, Forensics, OSINT</td>
+      <td>Web, Boot2root, Forensics, Stego, OSINT</td>
       <td> 🇧🇭 </td>
       <td><a href="https://twitter.com/fcv9_q" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="http://0xrar.net/blog" target="_blank" rel="noopener noreferrer">0xRar</a></td>
@@ -133,6 +133,13 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/m4lw0r3" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>Muzec</td>
+      <td>Web, Boot2root, Rev</td>
+      <td> 🇳🇬 </td>
+      <td><a href="https://twitter.com/muzec_saminu" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://muzec0318.github.io/" target="_blank" rel="noopener noreferrer">Muzec</a></td>
     </tr>
   </tbody>
 </table>
