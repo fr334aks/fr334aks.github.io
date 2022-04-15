@@ -117,7 +117,7 @@ layout: default
       <td>CyberRat</td>
       <td>Boot2root</td>
       <td> 🇳🇬 </td>
-      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
