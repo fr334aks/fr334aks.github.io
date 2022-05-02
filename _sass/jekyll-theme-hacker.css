@@ -374,7 +374,8 @@ a {
 }
 
 .active-members {
-  background-image: url("/assets/images/members-table.png");
+  /* background-image: url("/assets/images/members-table.png"); */
+  background-color: #101010;
   background-size: cover;
   background-repeat: no-repeat;
 }
