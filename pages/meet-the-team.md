@@ -125,7 +125,7 @@ layout: default
       <td>Web</td>
       <td> 🇮🇳 </td>
       <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">N/A</a></td>
+      <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">j0kr</a></td>
     </tr>
     <tr>
       <td>malw0re</td>
