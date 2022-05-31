@@ -24,7 +24,7 @@ layout: default
     </tr>
     <tr>
       <td>tahaafarooq</td>
-      <td>Web, Rev, OSINT</td>
+      <td>Web, Boot2root, Rev, OSINT</td>
       <td> 🇹🇿 </td>
       <td><a href="https://twitter.com/tahaafarooq" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://hackmd.io/@tahaafarooq" target="_blank" rel="noopener noreferrer">tahaafarooq</a></td>
