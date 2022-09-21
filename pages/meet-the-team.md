@@ -141,5 +141,12 @@ layout: default
       <td><a href="https://twitter.com/muzec_saminu" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://muzec0318.github.io/" target="_blank" rel="noopener noreferrer">Muzec</a></td>
     </tr>
+    <tr>
+      <td>0xManticore</td>
+      <td>Web, Crypto, Boot2root, OSINT, Stego</td>
+      <td> 🇪🇬 </td>
+      <td><a href="https://twitter.com/0xManticore" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
   </tbody>
 </table>
