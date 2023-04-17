@@ -86,7 +86,6 @@ layout: default
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
-    <tr>
       <td>malw0re</td>
       <td>Web, Forensics, Misc</td>
       <td> 🇰🇪 </td>
