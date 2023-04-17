@@ -79,27 +79,6 @@ layout: default
       <td><a href="https://trevorsaudi.medium.com" target="_blank" rel="noopener noreferrer">trevorsaudi</a></td>
     </tr>
     <tr>
-      <td>ikuamike</td>
-      <td>Web, Boot2root, Misc</td>
-      <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">ikuamike</a></td>
-    </tr>
-    <tr>
-      <td>Fraize</td>
-      <td>Web, Rev, OSINT, Misc</td>
-      <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
-    </tr>
-    <tr>
-      <td>JrGoomer</td>
-      <td>OSINT, Misc</td>
-      <td> 🇵🇹 </td>
-      <td><a href="https://twitter.com/JrGoomer" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
-    </tr>
-    <tr>
       <td>mystic_kev</td>
       <td>Crypto, Web, Reverse, Forensics</td>
       <td> 🇰🇪 </td>
@@ -107,26 +86,6 @@ layout: default
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
-      <td>T3K4</td>
-      <td>Web</td>
-      <td> 🇩🇿 </td>
-      <td><a href="https://twitter.com/tekyoucef1" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
-    </tr>
-    <tr>
-      <td>CyberRat</td>
-      <td>Boot2root</td>
-      <td> 🇳🇬 </td>
-      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
-    </tr>
-    <tr>
-      <td>j0kr</td>
-      <td>Web</td>
-      <td> 🇮🇳 </td>
-      <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">Twitter</a></td>
-      <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">j0kr</a></td>
-    </tr>
     <tr>
       <td>malw0re</td>
       <td>Web, Forensics, Misc</td>
@@ -147,6 +106,64 @@ layout: default
       <td> 🇪🇬 </td>
       <td><a href="https://twitter.com/0xManticore" target="_blank" rel="noopener noreferrer">Twitter</a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+</tbody>
+</table>
+      
+# Inactive Team Members:
+
+<table class="Inactive-members">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Categories</th>
+      <th>Nationality</th>
+      <th>socials</th>
+      <th>blog</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td>ikuamike</td>
+      <td>Web, Boot2root, Misc</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">ikuamike</a></td>
+    </tr>
+    <tr>
+      <td>Fraize</td>
+      <td>Web, Rev, OSINT, Misc</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>JrGoomer</td>
+      <td>OSINT, Misc</td>
+      <td> 🇵🇹 </td>
+      <td><a href="https://twitter.com/JrGoomer" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+      <tr>
+      <td>T3K4</td>
+      <td>Web</td>
+      <td> 🇩🇿 </td>
+      <td><a href="https://twitter.com/tekyoucef1" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>CyberRat</td>
+      <td>Boot2root</td>
+      <td> 🇳🇬 </td>
+      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>j0kr</td>
+      <td>Web</td>
+      <td> 🇮🇳 </td>
+      <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">j0kr</a></td>
     </tr>
   </tbody>
 </table>
