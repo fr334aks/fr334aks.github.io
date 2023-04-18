@@ -36,7 +36,9 @@ layout: default
       <td>0xRar</td>
       <td>Web, Boot2root, Forensics, Stego, OSINT</td>
       <td> 🇧🇭 </td>
-      <td><a href="https://twitter.com/fcv9_q" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/fcv9_" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a>
       <td><a href="http://0xrar.net/blog" target="_blank" rel="noopener noreferrer">0xRar</a></td>
     </tr>
     <tr>
