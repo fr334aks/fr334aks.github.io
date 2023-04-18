@@ -21,7 +21,7 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/k0imet_" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://blog.k0imet.tech" target="_blank" rel="noopener noreferrer">k0imet</a></td>
     </tr>
     <tr>
@@ -30,8 +30,7 @@ layout: default
       <td> 🇹🇿 </td>
       <td><a href="https://twitter.com/tahaafarooq" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
-      </td>
+      </a></td>
       <td><a href="https://hackmd.io/@tahaafarooq" target="_blank" rel="noopener noreferrer">tahaafarooq</a></td>
     </tr>
     <tr>
@@ -40,7 +39,7 @@ layout: default
       <td> 🇧🇭 </td>
       <td><a href="https://twitter.com/fcv9_q" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="http://0xrar.net/blog" target="_blank" rel="noopener noreferrer">0xRar</a></td>
     </tr>
     <tr>
@@ -49,7 +48,7 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/mug3njustu" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://hackmd.io/@mug3njutsu" target="_blank" rel="noopener noreferrer">mug3njutsu</a></td>
     </tr>
      <tr>
@@ -58,7 +57,7 @@ layout: default
       <td> 🇧🇷 </td>
       <td><a href="https://twitter.com/lvmalware" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://lvmalware.github.io" target="_blank" rel="noopener noreferrer">lvmalware</a></td>
     </tr>
     <tr>
@@ -67,7 +66,7 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/b1narychunk" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://mutur4.github.io/posts/" target="_blank" rel="noopener noreferrer">mutur4</a></td>
     </tr>
     <tr>
@@ -76,7 +75,7 @@ layout: default
       <td> 🇺🇬 </td>
       <td><a href="https://twitter.com/graypwn" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
@@ -85,7 +84,7 @@ layout: default
       <td> 🇪🇹 </td>
       <td><a href="https://twitter.com/mastersal_" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
@@ -94,35 +93,43 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/trevorsaudi" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://trevorsaudi.medium.com" target="_blank" rel="noopener noreferrer">trevorsaudi</a></td>
     </tr>
     <tr>
       <td>mystic_kev</td>
       <td>Crypto, Web, Reverse, Forensics</td>
       <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/mystic_kev" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/mystic_kev" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>malw0re</td>
       <td>Web, Forensics, Misc</td>
       <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/m4lw0r3" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/M4LW0R3" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>Muzec</td>
       <td>Web, Boot2root, Rev</td>
       <td> 🇳🇬 </td>
-      <td><a href="https://twitter.com/muzec_saminu" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/muzec_saminu" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://muzec0318.github.io/" target="_blank" rel="noopener noreferrer">Muzec</a></td>
     </tr>
     <tr>
       <td>0xManticore</td>
       <td>Web, Crypto, Boot2root, OSINT, Stego</td>
       <td> 🇪🇬 </td>
-      <td><a href="https://twitter.com/0xManticore" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/0xManticore" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
   </tbody>
@@ -146,14 +153,18 @@ layout: default
       <td>ikuamike</td>
       <td>Web, Boot2root, Misc</td>
       <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/ikuamike" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://blog.ikuamike.io" target="_blank" rel="noopener noreferrer">ikuamike</a></td>
     </tr>
     <tr>
       <td>Fraize</td>
       <td>Web, Rev, OSINT, Misc</td>
       <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
