@@ -94,7 +94,7 @@ layout: default
       <td><a href="https://twitter.com/trevorsaudi" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
       </a></td>
-      <td><a href="https://trevorsaudi.medium.com" target="_blank" rel="noopener noreferrer">trevorsaudi</a></td>
+      <td><a href="https://trevorsaudi.com" target="_blank" rel="noopener noreferrer">trevorsaudi</a></td>
     </tr>
     <tr>
       <td>mystic_kev</td>
@@ -132,6 +132,24 @@ layout: default
       </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
+    <tr>
+      <td>Paran0id</td>
+      <td>Web</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/__paran0id__" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
+    </tr>
+    <tr>
+      <td>FValkyrie_17</td>
+      <td>Web, Network, Pwn</td>
+      <td> 🇮🇳 </td>
+      <td><a href="https://twitter.com/Fvalkyrie_17" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
+      <td><a href="https://arkaprabhachakraborty.github.io/home/" target="_blank" rel="noopener noreferrer">arkaprabhachakraborty</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -164,35 +182,43 @@ layout: default
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/la_fraize" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a>
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>JrGoomer</td>
       <td>OSINT, Misc</td>
       <td> 🇵🇹 </td>
-      <td><a href="https://twitter.com/JrGoomer" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/JrGoomer" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
       <tr>
       <td>T3K4</td>
       <td>Web</td>
       <td> 🇩🇿 </td>
-      <td><a href="https://twitter.com/tekyoucef1" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a><td><a href="https://twitter.com/tekyoucef1" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>CyberRat</td>
       <td>Boot2root</td>
       <td> 🇳🇬 </td>
-      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/ratilovich" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
     <tr>
       <td>j0kr</td>
       <td>Web</td>
       <td> 🇮🇳 </td>
-      <td><a href="https://twitter.com/z0k_r" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/z0kr_r" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
       <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">j0kr</a></td>
     </tr>
   </tbody>
