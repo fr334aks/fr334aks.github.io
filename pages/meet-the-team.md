@@ -26,7 +26,10 @@ layout: default
       <td>tahaafarooq</td>
       <td>Web, Boot2root, Rev, OSINT</td>
       <td> 🇹🇿 </td>
-      <td><a href="https://twitter.com/tahaafarooq" target="_blank" rel="noopener noreferrer">Twitter</a></td>
+      <td><a href="https://twitter.com/tahaafarooq" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a>
+      </td>
       <td><a href="https://hackmd.io/@tahaafarooq" target="_blank" rel="noopener noreferrer">tahaafarooq</a></td>
     </tr>
     <tr>
