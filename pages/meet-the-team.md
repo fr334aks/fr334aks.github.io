@@ -152,12 +152,21 @@ layout: default
     </tr>
     <tr>
       <td>Ichybell</td>
-      <td>Web, Network, Pwn</td>
-      <td> 🇮🇳 </td>
+      <td>Web, Crypto, Forensics</td>
+      <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/IanpeterL" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
       </a></td>
       <td><a href="https://ianpeter.medium.com" target="_blank" rel="noopener noreferrer">IanPeter</a></td>
+    </tr>
+    <tr>
+      <td>Trustie</td>
+      <td>Pwn, Rev</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/Trustie_rity" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
+      <td><a href="https://trustie.medium.com" target="_blank" rel="noopener noreferrer">IanPeter</a></td>
     </tr>
   </tbody>
 </table>
