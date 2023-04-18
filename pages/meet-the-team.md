@@ -198,7 +198,7 @@ layout: default
       <td>T3K4</td>
       <td>Web</td>
       <td> 🇩🇿 </td>
-      <td><a><td><a href="https://twitter.com/tekyoucef1" target="_blank" rel="noopener noreferrer">
+      <td><a href="https://twitter.com/tekyoucef1" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
       </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
