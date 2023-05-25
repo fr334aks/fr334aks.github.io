@@ -44,7 +44,7 @@ layout: default
     </tr>
     <tr>
       <td>mug3njutsu</td>
-      <td>Web, Forensics, Rev, OSINT, Misc</td>
+      <td>Pwn</td>
       <td> 🇰🇪 </td>
       <td><a href="https://twitter.com/mug3njustu" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
@@ -128,15 +128,6 @@ layout: default
       <td>Web, Crypto, Boot2root, OSINT, Stego</td>
       <td> 🇪🇬 </td>
       <td><a href="https://twitter.com/0xManticore" target="_blank" rel="noopener noreferrer">
-      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
-      </a></td>
-      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
-    </tr>
-    <tr>
-      <td>Paran0id</td>
-      <td>Web</td>
-      <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/__paran0id__" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
       </a></td>
       <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
@@ -238,6 +229,15 @@ layout: default
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
       </a></td>
       <td><a href="https://jokrhub.github.io" target="_blank" rel="noopener noreferrer">j0kr</a></td>
+    </tr>
+    <tr>
+      <td>Paran0id</td>
+      <td>Web</td>
+      <td> 🇰🇪 </td>
+      <td><a href="https://twitter.com/__paran0id__" target="_blank" rel="noopener noreferrer">
+      <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
+      </a></td>
+      <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">N/A</a></td>
     </tr>
   </tbody>
 </table>
