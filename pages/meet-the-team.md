@@ -46,7 +46,7 @@ layout: default
       <td>mug3njutsu</td>
       <td>Pwn</td>
       <td> 🇰🇪 </td>
-      <td><a href="https://twitter.com/mug3njustu" target="_blank" rel="noopener noreferrer">
+      <td><a href="https://twitter.com/mug3njutsu" target="_blank" rel="noopener noreferrer">
       <img width="30px" src="https://raw.githubusercontent.com/0xRar/0xRar/6e5db5cb365f440a9150d180506af538a0640a85/icons/Twitter.svg" alt="Twitter">
       </a></td>
       <td><a href="https://hackmd.io/@mug3njutsu" target="_blank" rel="noopener noreferrer">mug3njutsu</a></td>
